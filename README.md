@@ -1,6 +1,7 @@
 # 테스트용 데이터베이스
 
-# 실행 방법   
+# 실행 방법
+0. database 레포와 backend 레포를 클론 받는다.
 1. database 레포에에서 run_db.sh 입력   
    (bash run_db.sh)   
 
